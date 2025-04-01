@@ -1,0 +1,99 @@
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\CallawayWeb.dll.config
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\CallawayWeb.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\CallawayWeb.pdb
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\AjaxControlToolkit.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\dotnetCHARTING.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.AspNet.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.Core.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\EntityFramework.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\System.Web.Providers.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Mono.Math.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\EntityFramework.xml
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.Core.xml
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.xml
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.xml
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.AspNet.xml
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Mono.Math.xml
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CMAS_Admin.csprojAssemblyReference.cache
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CMAS_Admin.csproj.CoreCompileInputs.cache
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CMAS_Admin.csproj.CopyComplete
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CallawayWeb.dll
+C:\Repos\CMAS\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CallawayWeb.pdb
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\CallawayWeb.dll.config
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\CallawayWeb.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\CallawayWeb.pdb
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\AjaxControlToolkit.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\AspNet.ScriptManager.jQuery.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\dotnetCHARTING.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.AspNet.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.Core.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\EntityFramework.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\System.Web.Providers.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Org.Mentalis.Security.Cryptography.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Mono.Math.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\EntityFramework.xml
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.Core.xml
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.xml
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.xml
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.AspNet.xml
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Org.Mentalis.Security.Cryptography.xml
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Mono.Math.xml
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CMAS_Admin.csproj.AssemblyReference.cache
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CMAS_Admin.csproj.CoreCompileInputs.cache
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CallawayWeb.dll
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CallawayWeb.pdb
+D:\VersionIngles\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CMAS_Admin.csproj.Up2Date
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\CallawayWeb.dll.config
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\CallawayWeb.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\CallawayWeb.pdb
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\AjaxControlToolkit.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\AspNet.ScriptManager.jQuery.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\dotnetCHARTING.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.AspNet.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.Core.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\EntityFramework.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\System.Web.Providers.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Org.Mentalis.Security.Cryptography.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Mono.Math.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\EntityFramework.xml
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.Core.xml
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.xml
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.xml
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\DotNetOpenAuth.AspNet.xml
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Org.Mentalis.Security.Cryptography.xml
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\bin\Mono.Math.xml
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CMAS_Admin.csproj.AssemblyReference.cache
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CMAS_Admin.csproj.CoreCompileInputs.cache
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CMAS_Admin.csproj.Up2Date
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CallawayWeb.dll
+D:\VersionIngles - Copy\CMAS-Admi-RP_25feb2025\CMAS_Admin\obj\Debug\CallawayWeb.pdb
